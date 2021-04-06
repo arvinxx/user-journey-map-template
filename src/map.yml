@@ -1,9 +1,14 @@
 steps:
-  - plan: 计划租车
-  - rent: 租车
-  - take: 提车
-  - play: 游玩
-  - return: 还车
+  - id: plan
+    name: 计划租车
+  - id: rent
+    name: 租车
+  - id: take
+    name: 提车
+  - id: play
+    name: 游玩
+  - id: return
+    name: 还车
 
 actions:
   plan:
