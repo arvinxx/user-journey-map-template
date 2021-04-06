@@ -1,6 +1,6 @@
 {
   "name": "user-journal-map-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "a template for gitmoji commit workflow",
   "main": "lib/index.js",
