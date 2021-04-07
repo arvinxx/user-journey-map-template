@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.1.0](https://github.com/arvinxx/user-journal-map-template/compare/v1.0.1...v1.1.0) (2021-04-07)
+
+
+### ✨ Features
+
+* 添加买车地图 ([c2e5daf](https://github.com/arvinxx/user-journal-map-template/commit/c2e5daf))
+
+
+### 📝 Documentation
+
+* 更新文档 ([9566389](https://github.com/arvinxx/user-journal-map-template/commit/9566389))
+
 ## [1.0.1](https://github.com/arvinxx/user-journal-map-template/compare/v1.0.0...v1.0.1) (2021-04-06)
 
 
