@@ -10,16 +10,16 @@
 [gitmoji-url]: https://gitmoji.carloscuesta.me/
 [semantic-release]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
 [semantic-release-repo]: https://github.com/semantic-release/semantic-release
-[license-url]: https://img.shields.io/github/license/arvinxx/user-journal-map-template
+[license-url]: https://img.shields.io/github/license/arvinxx/user-journey-map-template
 
 <!-- Github CI -->
 
-[release-ci]: https://github.com/arvinxx/user-journal-map-template/workflows/Release%20CI/badge.svg
-[deploy-ci-url]: https://github.com/arvinxx/user-journal-map-template/actions?query=workflow%3A%22Release+CI%22
+[release-ci]: https://github.com/arvinxx/user-journey-map-template/workflows/Release%20CI/badge.svg
+[deploy-ci-url]: https://github.com/arvinxx/user-journey-map-template/actions?query=workflow%3A%22Release+CI%22
 
 ## 模板说明
 
-Demo 地址: [传送门](https://codesandbox.io/s/user-journal-map-demo-lww80)
+Demo 地址: [传送门](https://codesandbox.io/s/user-journey-map-demo-lww80)
 
 ## License
 
