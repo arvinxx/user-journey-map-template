@@ -1,5 +1,24 @@
 # Changelog
 
+# [2.0.0](https://github.com/arvinxx/user-journey-map-template/compare/v1.1.0...v2.0.0) (2021-04-08)
+
+
+### ✨ Features
+
+* 更新内容 ([f4c8982](https://github.com/arvinxx/user-journey-map-template/commit/f4c8982))
+* 更新内容 ([07a9216](https://github.com/arvinxx/user-journey-map-template/commit/07a9216))
+
+
+### 🎫 Chores
+
+* 修正命名 ([268773f](https://github.com/arvinxx/user-journey-map-template/commit/268773f))
+
+
+### 💥 BREAKING CHANGES
+
+* 调整语法结构
+* 调整语法结构
+
 # [1.1.0](https://github.com/arvinxx/user-journey-map-template/compare/v1.0.1...v1.1.0) (2021-04-07)
 
 
