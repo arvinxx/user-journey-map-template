@@ -1,36 +1,49 @@
-steps:
+stages:
   - name: 考虑
-    id: thinking
+    actions:
+      - name: 电视上看到广告
+        emotion: 2
+      - name: 访问网站
+        emotion: 1
+      - name: 脸书上看到广告
+        emotion: 2
+
   - name: 探索
-    id: research
+    actions:
+      - name: 查看所有车
+        emotion: 2
+      - name: 创建账户
+        emotion: 1
+      - name: 添加喜欢的车
+        emotion: 2
+      - name: 在办公室下载应用
+        emotion: 1
+
   - name: 比较
-    id: compare
+    actions:
+      - name: 阅读比较评价
+        emotion: 0
+      - name: 找信任的朋友交流
+        emotion: 1
+      - name: 持续监测网站
+        emotion: -2
+
   - name: 试驾
-    id: try
+    actions:
+      - name: 选择想要试驾的车
+        emotion: 0
+      - name: 在谷歌地图上找经销商位置
+        emotion: 0
+      - name: 拜访经销商
+        emotion: 1
+      - name: 发现可以在应用上自由的记笔记
+        emotion: 2
+
   - name: 协商
-    id: conversation
-
-actions:
-  thinking:
-    - 电视上看到广告: 2
-    - 访问网站: 1
-    - 脸书上看到广告: 2
-  research:
-    - 查看所有车: 2
-    - 创建账户: 1
-    - 添加喜欢的车: 2
-    - 在办公室下载应用: 1
-  compare:
-    - 阅读比较评价: 0
-    - 找信任的朋友交流: 1
-    - 持续监测网站: -2
-  try:
-    - 选择想要试驾的车: 0
-    - 在谷歌地图上找经销商位置: 0
-    - 拜访经销商: 1
-    - 发现可以在应用上自由的记笔记: 2
-
-  conversation:
-    - 确定一辆车: 1
-    - 砍价: 1
-    - 完成交易: 2
+    actions:
+      - name: 确定一辆车
+        emotion: 1
+      - name: 砍价
+        emotion: 1
+      - name: 完成交易
+        emotion: 2
