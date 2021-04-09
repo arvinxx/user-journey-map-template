@@ -1,3 +1,5 @@
+config:
+
 stages:
   - name: 考虑
     actions:
