@@ -25,7 +25,7 @@
     "commitlint-config-gitmoji": "^2.2.1",
     "husky": "^4.3.8",
     "semantic-release": "^17.3.7",
-    "semantic-release-config-gitmoji": "^1.2.4"
+    "semantic-release-config-gitmoji": "^1.2.5"
   },
   "homepage": "https://github.com/arvinxx/user-journey-map-template#readme"
 }
